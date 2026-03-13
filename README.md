@@ -25,15 +25,25 @@ I am passionate about working with data and solving problems using analytics.
 - Data Cleaning
 - Data Analysis
 
+## 🛠 Tools & Technologies
+
+- Microsoft Excel
+- SQL
+- Python
+- GitHub
+- Jupyter Notebook
 ---
 
 ## 📂 Projects
 
-- Sales Data Analysis
-- Customer Data Analysis
-- Data Cleaning Project
-- Business Insights Project
+🔹 [Sales Data Analysis End-to-End](https://github.com/vishukatariya6-star/Sales-Data-Analytics-End-to-End)
+
+🔹 [Ecommerce SQL Analysis](https://github.com/vishukatariya6-star/Ecommerce-SQL-Analytics)
+
+🔹 [Vrinda Store Sales Analysis](https://github.com/vishukatariya6-star/Vrinda-Store-Sales-Analysis-Excel)
+
+🔹 [Global Food Analysis Dashboard](https://github.com/vishukatariya6-star/Global-Food-Analytics-Dashboard-Excel)
 
 ---
 
-⭐ Always learning and improving.
+
