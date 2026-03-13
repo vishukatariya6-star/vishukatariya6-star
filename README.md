@@ -1,7 +1,8 @@
 # Hi 👋 I'm Vishu Katariya
 
-🎓 IT Student | Aspiring Data Analyst
-
+IT Student | Aspiring Data Analyst  
+SQL • Excel • Python • Data Analysis  
+Turning Raw Data into Business Insights
 I am passionate about working with data and solving problems using analytics.
 
 ---
